@@ -1,0 +1,9 @@
+<notification>
+    <status_message>##status_message##</status_message>
+    <log_status>##log_status##</log_status>
+    <number_dialed>##number_dialed##</number_dialed>
+    <faxsubject>##faxsubject##</faxsubject> 
+    <number_of_pages>##pages##</number_of_pages>
+    <activity_id>##activity_id##</activity_id>
+    <fax_number>##fax_number##</fax_number>
+</notification>

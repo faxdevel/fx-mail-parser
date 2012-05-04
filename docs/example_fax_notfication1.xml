@@ -1,0 +1,23 @@
+<!-- Nothing in the header -->
+<notification>
+    <status_message></status_message>
+    <log_status>Submitted</log_status>
+    <number_dialed>27116565553</number_dialed>
+    <faxsubject>simplefax zone1</faxsubject> 
+    <number_of_pages>1</number_of_pages>
+    <activity_id>417649761</activity_id>
+    <fax_number>086 585 5716</fax_number>
+</notification>
+<!-- Nothing in the footer-->
+
+<!-- Nothing in the header -->
+<notification>
+    <status_message>Successful</status_message>
+    <log_status>Successful</log_status>
+    <number_dialed>27116565553</number_dialed>
+    <faxsubject>simplefax zone1</faxsubject> 
+    <number_of_pages>1</number_of_pages>
+    <activity_id>417649761</activity_id>
+    <fax_number>086 585 5716</fax_number>
+</notification>
+<!-- Nothing in the footer-->
